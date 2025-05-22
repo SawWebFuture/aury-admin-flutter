@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "title": "Keynote Speaker",
+    "company": "Tech Innovations Ltd.",
+    "bio": "John is a tech visionary with over 20 years of experience in the industry, specializing in AI and machine learning.",
+    "topic": "The Future of AI in Everyday Life",
+    "contact_email": "johndoe@techinnovations.com"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "title": "Panel Moderator",
+    "company": "Green Solutions",
+    "bio": "Jane is a sustainability expert who leads a global team focusing on eco-friendly technologies.",
+    "topic": "Sustainability in Tech: Challenges and Opportunities",
+    "contact_email": "janesmith@greensolutions.com"
+  },
+  {
+    "id": 3,
+    "name": "Mark Johnson",
+    "title": "Guest Speaker",
+    "company": "Innovative Startups",
+    "bio": "Mark is a serial entrepreneur with a passion for helping startups scale in the tech space.",
+    "topic": "Scaling Your Startup: From Idea to Impact",
+    "contact_email": "markjohnson@innovativestartups.com"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "title": "Workshop Leader",
+    "company": "Future Creators",
+    "bio": "Emily is an expert in design thinking and its application to business strategy and innovation.",
+    "topic": "Design Thinking for Business Transformation",
+    "contact_email": "emilydavis@futurecreators.com"
+  },
+  {
+    "id": 5,
+    "name": "Chris Brown",
+    "title": "Keynote Speaker",
+    "company": "Next Gen Robotics",
+    "bio": "Chris is a leading roboticist, innovating in the field of human-robot interaction and autonomous systems.",
+    "topic": "Robotics: Changing the Landscape of Industry",
+    "contact_email": "chrisbrown@nextgenrobotics.com"
+  },
+  {
+    "id": 6,
+    "name": "Patricia Williams",
+    "title": "Panelist",
+    "company": "TechForward",
+    "bio": "Patricia is a cybersecurity expert, working with businesses to protect sensitive data in an increasingly digital world.",
+    "topic": "Cybersecurity: Navigating the New Threats",
+    "contact_email": "patriciawilliams@techforward.com"
+  },
+  {
+    "id": 7,
+    "name": "Robert Martinez",
+    "title": "Workshop Leader",
+    "company": "DesignLab",
+    "bio": "Robert specializes in UX/UI design, focusing on the intersection of user experience and technology.",
+    "topic": "Mastering UX/UI for Seamless User Experiences",
+    "contact_email": "robertmartinez@designlab.com"
+  },
+  {
+    "id": 8,
+    "name": "Linda Green",
+    "title": "Panelist",
+    "company": "Smart Cities Inc.",
+    "bio": "Linda is a smart cities advocate, helping municipalities adopt advanced technologies to improve urban life.",
+    "topic": "Smart Cities: Innovation and the Urban Future",
+    "contact_email": "lindagreen@smartcities.com"
+  },
+  {
+    "id": 9,
+    "name": "Michael Clark",
+    "title": "Guest Speaker",
+    "company": "Digital Horizons",
+    "bio": "Michael is a digital transformation expert, advising businesses on how to thrive in the digital age.",
+    "topic": "Digital Transformation in Business: A Roadmap",
+    "contact_email": "michaelclark@digitalhorizons.com"
+  },
+  {
+    "id": 10,
+    "name": "Sarah Wilson",
+    "title": "Keynote Speaker",
+    "company": "AI Solutions",
+    "bio": "Sarah is an AI researcher, known for her groundbreaking work in natural language processing and deep learning.",
+    "topic": "AI and Ethics: Navigating the New Frontier",
+    "contact_email": "sarahwilson@aisolutions.com"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "John Doe",
+    "seminar": "AI in Healthcare",
+    "time": "09:00 AM",
+    "date": "2024-11-23",
+    "email": "johndoe@example.com",
+    "contact_number": "+1 123-456-7890"
+  },
+  {
+    "name": "Jane Smith",
+    "seminar": "Data Science Trends",
+    "time": "10:00 AM",
+    "date": "2024-11-23",
+    "email": "janesmith@example.com",
+    "contact_number": "+1 234-567-8901"
+  },
+  {
+    "name": "Samuel Adams",
+    "seminar": "Blockchain Technology",
+    "time": "11:00 AM",
+    "date": "2024-11-23",
+    "email": "samueladams@example.com",
+    "contact_number": "+1 345-678-9012"
+  },
+  {
+    "name": "Emily Clark",
+    "seminar": "Cybersecurity Essentials",
+    "time": "12:00 PM",
+    "date": "2024-11-23",
+    "email": "emilyclark@example.com",
+    "contact_number": "+1 456-789-0123"
+  },
+  {
+    "name": "Michael Brown",
+    "seminar": "Quantum Computing",
+    "time": "01:00 PM",
+    "date": "2024-11-23",
+    "email": "michaelbrown@example.com",
+    "contact_number": "+1 567-890-1234"
+  },
+  {
+    "name": "Sarah Davis",
+    "seminar": "AI and Ethics",
+    "time": "02:00 PM",
+    "date": "2024-11-23",
+    "email": "sarahdavis@example.com",
+    "contact_number": "+1 678-901-2345"
+  },
+  {
+    "name": "David Wilson",
+    "seminar": "Cloud Computing",
+    "time": "03:00 PM",
+    "date": "2024-11-23",
+    "email": "davidwilson@example.com",
+    "contact_number": "+1 789-012-3456"
+  },
+  {
+    "name": "Laura Martinez",
+    "seminar": "Virtual Reality",
+    "time": "04:00 PM",
+    "date": "2024-11-23",
+    "email": "lauramartinez@example.com",
+    "contact_number": "+1 890-123-4567"
+  },
+  {
+    "name": "William Lee",
+    "seminar": "Machine Learning",
+    "time": "05:00 PM",
+    "date": "2024-11-23",
+    "email": "williamlee@example.com",
+    "contact_number": "+1 901-234-5678"
+  },
+  {
+    "name": "Sophia Taylor",
+    "seminar": "IoT Innovations",
+    "time": "06:00 PM",
+    "date": "2024-11-23",
+    "email": "sophiataylor@example.com",
+    "contact_number": "+1 012-345-6789"
+  }
+]

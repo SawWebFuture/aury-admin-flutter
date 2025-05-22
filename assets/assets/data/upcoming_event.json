@@ -1,0 +1,112 @@
+[
+  {
+    "event_id": 1,
+    "event_name": "Music scott_williams_portfoliol",
+    "event_date": "2024-12-10",
+    "event_time": "18:00",
+    "venue": "Central Park",
+    "location": "New York, USA",
+    "description": "A grand music scott_williams_portfoliol featuring top artists from around the world.",
+    "ticket_price": 50,
+    "organizer": "Global Events Inc."
+  },
+  {
+    "event_id": 2,
+    "event_name": "Tech Conference 2024",
+    "event_date": "2024-12-15",
+    "event_time": "09:00",
+    "venue": "Tech Expo Center",
+    "location": "San Francisco, USA",
+    "description": "Join industry leaders to discuss the future of technology and innovation.",
+    "ticket_price": 250,
+    "organizer": "Tech Innovators"
+  },
+  {
+    "event_id": 3,
+    "event_name": "Winter Wonderland",
+    "event_date": "2024-12-20",
+    "event_time": "17:00",
+    "venue": "City Square",
+    "location": "London, UK",
+    "description": "A festive event with ice skating, holiday markets, and live performances.",
+    "ticket_price": 25,
+    "organizer": "Holiday Events Ltd."
+  },
+  {
+    "event_id": 4,
+    "event_name": "Charity Gala Dinner",
+    "event_date": "2024-12-22",
+    "event_time": "19:00",
+    "venue": "Grand Ballroom",
+    "location": "Paris, France",
+    "description": "A formal gala dinner supporting various charitable causes.",
+    "ticket_price": 500,
+    "organizer": "Giving Hands Foundation"
+  },
+  {
+    "event_id": 5,
+    "event_name": "New Year Countdown Party",
+    "event_date": "2024-12-31",
+    "event_time": "21:00",
+    "venue": "Sky Lounge",
+    "location": "Dubai, UAE",
+    "description": "Celebrate the arrival of the New Year with live music and drinks.",
+    "ticket_price": 150,
+    "organizer": "Dubai Nights Events"
+  },
+  {
+    "event_id": 6,
+    "event_name": "Cooking Masterclass",
+    "event_date": "2024-12-05",
+    "event_time": "14:00",
+    "venue": "Gourmet Kitchen",
+    "location": "Los Angeles, USA",
+    "description": "Learn to prepare gourmet dishes from top chefs in a hands-on workshop.",
+    "ticket_price": 100,
+    "organizer": "Culinary Arts Academy"
+  },
+  {
+    "event_id": 7,
+    "event_name": "Christmas Market",
+    "event_date": "2024-12-12",
+    "event_time": "10:00",
+    "venue": "Old Town Square",
+    "location": "Prague, Czech Republic",
+    "description": "Experience the magic of Christmas with festive stalls, food, and decorations.",
+    "ticket_price": 10,
+    "organizer": "Prague City Events"
+  },
+  {
+    "event_id": 8,
+    "event_name": "Art Exhibition: Modern Masters",
+    "event_date": "2024-12-08",
+    "event_time": "11:00",
+    "venue": "Museum of Contemporary Art",
+    "location": "Berlin, Germany",
+    "description": "Explore the works of modern artists in this prestigious art exhibition.",
+    "ticket_price": 20,
+    "organizer": "Berlin Art Gallery"
+  },
+  {
+    "event_id": 9,
+    "event_name": "Yoga Retreat",
+    "event_date": "2024-12-14",
+    "event_time": "07:00",
+    "venue": "Serenity Hills Resort",
+    "location": "Bali, Indonesia",
+    "description": "A peaceful retreat focusing on yoga, mindfulness, and wellness.",
+    "ticket_price": 300,
+    "organizer": "Zen Lifestyle Group"
+  },
+  {
+    "event_id": 10,
+    "event_name": "Film scott_williams_portfoliol 2024",
+    "event_date": "2024-12-18",
+    "event_time": "10:00",
+    "venue": "Cineplex Theater",
+    "location": "Toronto, Canada",
+    "description": "Showcasing the best of independent cinema with screenings and discussions.",
+    "ticket_price": 40,
+    "organizer": "Toronto Film Society"
+  }
+]

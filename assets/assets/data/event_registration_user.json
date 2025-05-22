@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "+1234567890",
+    "event": "Tech Conference 2024",
+    "registrationDate": "2024-11-01",
+    "status": "Registered"
+  },
+  {
+    "id": 2,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@example.com",
+    "phone": "+1234567891",
+    "event": "Tech Conference 2024",
+    "registrationDate": "2024-11-02",
+    "status": "Registered"
+  },
+  {
+    "id": 3,
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "email": "alice.johnson@example.com",
+    "phone": "+1234567892",
+    "event": "Web Development Workshop",
+    "registrationDate": "2024-11-05",
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "firstName": "Bob",
+    "lastName": "Brown",
+    "email": "bob.brown@example.com",
+    "phone": "+1234567893",
+    "event": "Data Science Seminar",
+    "registrationDate": "2024-11-06",
+    "status": "Registered"
+  },
+  {
+    "id": 5,
+    "firstName": "Charlie",
+    "lastName": "Davis",
+    "email": "charlie.davis@example.com",
+    "phone": "+1234567894",
+    "event": "AI and ML Symposium",
+    "registrationDate": "2024-11-07",
+    "status": "Cancelled"
+  },
+  {
+    "id": 6,
+    "firstName": "David",
+    "lastName": "Miller",
+    "email": "david.miller@example.com",
+    "phone": "+1234567895",
+    "event": "Blockchain Workshop",
+    "registrationDate": "2024-11-08",
+    "status": "Registered"
+  },
+  {
+    "id": 7,
+    "firstName": "Eve",
+    "lastName": "Wilson",
+    "email": "eve.wilson@example.com",
+    "phone": "+1234567896",
+    "event": "Cloud Computing Conference",
+    "registrationDate": "2024-11-09",
+    "status": "Registered"
+  },
+  {
+    "id": 8,
+    "firstName": "Frank",
+    "lastName": "Moore",
+    "email": "frank.moore@example.com",
+    "phone": "+1234567897",
+    "event": "Cybersecurity Workshop",
+    "registrationDate": "2024-11-10",
+    "status": "Registered"
+  },
+  {
+    "id": 9,
+    "firstName": "Grace",
+    "lastName": "Taylor",
+    "email": "grace.taylor@example.com",
+    "phone": "+1234567898",
+    "event": "Virtual Reality Meetup",
+    "registrationDate": "2024-11-12",
+    "status": "Waitlisted"
+  },
+  {
+    "id": 10,
+    "firstName": "Hannah",
+    "lastName": "Anderson",
+    "email": "hannah.anderson@example.com",
+    "phone": "+1234567899",
+    "event": "Tech Conference 2024",
+    "registrationDate": "2024-11-15",
+    "status": "Registered"
+  }
+]

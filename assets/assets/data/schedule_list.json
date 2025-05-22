@@ -1,0 +1,82 @@
+[
+  {
+    "event_id": 1,
+    "event_name": "Tech Conference 2024",
+    "start_time": "2024-12-05T09:00:00",
+    "end_time": "2024-12-05T17:00:00",
+    "location": "Tech Innovation Center, Auditorium 1",
+    "description": "A full-day tech conference featuring talks on AI, blockchain, and cybersecurity."
+  },
+  {
+    "event_id": 2,
+    "event_name": "Product Launch Party",
+    "start_time": "2024-12-06T18:00:00",
+    "end_time": "2024-12-06T21:00:00",
+    "location": "Downtown Rooftop Lounge",
+    "description": "A celebration to launch the latest product, with live music and refreshments."
+  },
+  {
+    "event_id": 3,
+    "event_name": "Workshops on UX Design",
+    "start_time": "2024-12-07T10:00:00",
+    "end_time": "2024-12-07T13:00:00",
+    "location": "Creative Studios, Workshop Room 3",
+    "description": "Hands-on workshop focused on user experience design principles."
+  },
+  {
+    "event_id": 4,
+    "event_name": "Networking Dinner",
+    "start_time": "2024-12-07T19:00:00",
+    "end_time": "2024-12-07T22:00:00",
+    "location": "Seaside Terrace Restaurant",
+    "description": "An informal networking dinner for professionals in the tech industry."
+  },
+  {
+    "event_id": 5,
+    "event_name": "Keynote: Future of AI",
+    "start_time": "2024-12-08T09:30:00",
+    "end_time": "2024-12-08T11:00:00",
+    "location": "City Center Convention Hall",
+    "description": "Keynote speaker discussing the future trends and challenges of AI technology."
+  },
+  {
+    "event_id": 6,
+    "event_name": "Team Building Activities",
+    "start_time": "2024-12-08T12:30:00",
+    "end_time": "2024-12-08T15:30:00",
+    "location": "Adventure Park, Team Zone",
+    "description": "A day of team-building exercises and games aimed at improving collaboration."
+  },
+  {
+    "event_id": 7,
+    "event_name": "Virtual Coding Bootcamp",
+    "start_time": "2024-12-09T10:00:00",
+    "end_time": "2024-12-09T16:00:00",
+    "location": "Online",
+    "description": "A full-day virtual bootcamp for beginners to learn coding and web development."
+  },
+  {
+    "event_id": 8,
+    "event_name": "Startup Pitch Contest",
+    "start_time": "2024-12-10T14:00:00",
+    "end_time": "2024-12-10T17:00:00",
+    "location": "Venture Hub, Pitch Room 4",
+    "description": "Startup teams pitch their innovative ideas to a panel of investors and industry experts."
+  },
+  {
+    "event_id": 9,
+    "event_name": "Afterparty: Tech Talks",
+    "start_time": "2024-12-10T19:30:00",
+    "end_time": "2024-12-10T23:00:00",
+    "location": "Tech District Lounge",
+    "description": "An informal afterparty with live DJ, refreshments, and continued networking."
+  },
+  {
+    "event_id": 10,
+    "event_name": "Closing Ceremony",
+    "start_time": "2024-12-11T16:00:00",
+    "end_time": "2024-12-11T18:00:00",
+    "location": "Main Event Plaza, Stage A",
+    "description": "Final event of the conference with a closing address and awards ceremony."
+  }
+]
